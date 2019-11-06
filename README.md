@@ -1,2 +1,2 @@
 # John Isaac Molefe
-Personal wesite
+Personal website
