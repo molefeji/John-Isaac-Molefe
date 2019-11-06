@@ -1,2 +1,2 @@
-# John-Isaac-Molefe
+# John Isaac Molefe
 Personal wesite
